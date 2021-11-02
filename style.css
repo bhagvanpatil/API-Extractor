@@ -1,0 +1,14 @@
+body{
+margin: auto;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:#333;
+}
+a{
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  color: #333;
+}
+img{
+  height: 300px;
+}
